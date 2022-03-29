@@ -7,6 +7,10 @@
   "repository": "git@github.com:4lch4/Floo-Docs.git",
   "homepage": "https://docs.floo.cloud",
   "packageManager": "pnpm@6.32.3",
+  "engines": {
+    "node": ">=17",
+    "npm": "8.5.5"
+  },
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
